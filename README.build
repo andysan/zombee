@@ -1,3 +1,23 @@
+This is ZomBee a zboss fork to make a Linux userspace "eeBgiZ" stack implementation.
+As the moment it's not supported and this is a starting project to reach out goals in combination with Linux kernel changes inside the IEEE 802.15.4 subsystem.
+
+Name explanation "ZomBee":
+
+We was in the #qi-hardware channel and somebody asked for "eeBgiZ" stack because he had an atusb around and some "eeBgiZ" devices.
+As "eeBgiZ" is mostly dead and inclusive the realive of it aka "PIeeBgiZ" on 6LoWPAN technology based, he noted that you can buy such devices at the moment. This is correct but that doesn't change the state in research.
+
+That's why we name this protocol implementation "ZomBee" and may we need to reverse engineer additional things.
+
+Why do you name everything "eeBgiZ":
+
+Because reasons. Use your imigination.
+
+Goal:
+
+Connect it with some "eeBgiZ" devices which you can actually buy!
+
+Original part:
+
 Short build instructions:
 
 a) Linux
